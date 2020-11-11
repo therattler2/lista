@@ -9,7 +9,7 @@ http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?Playlis
 https://playback.akamaized.net/streams/27456795_8825585_lsi4dwlwfunh70sfjat_1/media/27456795_8825585_lsi4dwlwfunh70sfjat_1@628000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283234~acl=/streams/27456795_8825585_lsi4dwlwfunh70sfjat_1/media*~hmac=fbf8ffcbd60641b28f23261bfb3bd646587f1f0f454a41057606d6f99b04c74f
 
 #EXTINF:-1 tvg-chno=¨7¨,AN7
-https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MTk3NTE2LCJzZXNzaW9uIjoiMTQ4LjEwMS4xNjkuMTUyIiwid2hpdGVsaXN0IjpbIjE0OC4yNTUuMjI4LjE1OCIsIjE5MC4xNjYuMjIuMjIiXX0sInNpZ25hdHVyZSI6ImJkZGI4OThkMzE5ZTdhYzgwOGIyZjRjM2FlYWYxMmI3MDYyZDkxZWMifQ%3D%3D
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MjAwMzE5LCJzZXNzaW9uIjoiMTQ4LjEwMS4xNjkuMTUyIiwid2hpdGVsaXN0IjpbIjE0OC4xMDEuMTY5LjE1MiJdfSwic2lnbmF0dXJlIjoiYzRjYjBjYmMwYzYxZDUxN2Q0OTg0Mzg5MzgxMjFjYzI1Mzg0OTUxZSJ9
 
 #EXTINF:-1 tvg-chno=¨9¨,Color Visión RD
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYy0tCF2LXIgpbFgKtbj6Chw)/dm/3/x7gy059/d/live-1.m3u8

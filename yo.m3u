@@ -6,28 +6,28 @@ https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8?PlaylistM3UCL
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨5¨,Telemicro canal 5
-https://playback.akamaized.net/streams/27456795_8825585_lsif4b6v9he7a70djdf_1/media/27456795_8825585_lsif4b6v9he7a70djdf_1@628000p.m3u8?dw=14400&ts=1604444400&hdnts=exp=1604619604~acl=/streams/27456795_8825585_lsif4b6v9he7a70djdf_1/media*~hmac=df4e770a1ffae382aa83b27c77a86765db6eedc7b471208174cd88ca5b471bf1
+https://playback.akamaized.net/streams/27456795_8825585_lsi4dwlwfunh70sfjat_1/media/27456795_8825585_lsi4dwlwfunh70sfjat_1@628000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283234~acl=/streams/27456795_8825585_lsi4dwlwfunh70sfjat_1/media*~hmac=fbf8ffcbd60641b28f23261bfb3bd646587f1f0f454a41057606d6f99b04c74f
 
 #EXTINF:-1 tvg-chno=¨7¨,AN7
-https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA0NTMzNDYxLCJzZXNzaW9uIjoiMTkwLjE2Ny4xNDMuODAiLCJ3aGl0ZWxpc3QiOlsiMTQ4LjI1NS4yNTEuMTE5IiwiNjQuMzIuMTEwLjIxMyJdfSwic2lnbmF0dXJlIjoiNzg0YzYyMDUxNTQ5ODFlMWUwMjZmZmE4YzM4ODUyMGVmZTg2OTBhZiJ9
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MTk3NTE2LCJzZXNzaW9uIjoiMTQ4LjEwMS4xNjkuMTUyIiwid2hpdGVsaXN0IjpbIjE0OC4yNTUuMjI4LjE1OCIsIjE5MC4xNjYuMjIuMjIiXX0sInNpZ25hdHVyZSI6ImJkZGI4OThkMzE5ZTdhYzgwOGIyZjRjM2FlYWYxMmI3MDYyZDkxZWMifQ%3D%3D
 
 #EXTINF:-1 tvg-chno=¨9¨,Color Visión RD
-https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9g_6avgpgLCBFeZ4S6hm_U)/dm/3/x7gy059/d/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYy0tCF2LXIgpbFgKtbj6Chw)/dm/3/x7gy059/d/live-1.m3u8
 
 #EXTINF:-1 tvg-chno=¨11¨,Telesistema
 http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8&PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨13¨,TELECENTRO
-https://playback.akamaized.net/streams/28126860_8555433_lsif6huq3v2v0uu40kt_1/media/28126860_8555433_lsif6huq3v2v0uu40kt_1@1396000p.m3u8?dw=14400&ts=1604444400&hdnts=exp=1604620214~acl=/streams/28126860_8555433_lsif6huq3v2v0uu40kt_1/media*~hmac=42a697cc4b55eafd4cb315e150ad0afb304dd4b06d9b3dec9e40588abe2f230a
+https://playback.akamaized.net/streams/28126860_8555433_lsiaq0x64xbh2vvq97z_1/media/28126860_8555433_lsiaq0x64xbh2vvq97z_1@1396000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283514~acl=/streams/28126860_8555433_lsiaq0x64xbh2vvq97z_1/media*~hmac=16ce5b809c523972c65eed19a66de5b44d5bc8e1833a5e035b10f9a5d7d14c5c
 
 #EXTINF:-1 tvg-chno=¨13¨,Telecentro
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨15¨,Digital 15
-https://playback.akamaized.net/streams/27456795_8268514_lsii7yhdwmdqjpwm61b_1/media/27456795_8268514_lsii7yhdwmdqjpwm61b_1@628000p.m3u8?dw=14400&ts=1604444400&hdnts=exp=1604620476~acl=/streams/27456795_8268514_lsii7yhdwmdqjpwm61b_1/media*~hmac=383a5270a46f6dc5db29e229dac48d3c38d6ccfde9d7ccccd55955b123e4333e
+https://playback.akamaized.net/streams/27456795_8268514_lsihn7mveyyscy7m3tm_1/media/27456795_8268514_lsihn7mveyyscy7m3tm_1@628000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283658~acl=/streams/27456795_8268514_lsihn7mveyyscy7m3tm_1/media*~hmac=26cda4f38a0f55ffadba9ef2f1a6398b4f5f36d62610aa5806e8e91df5f31667
 
 #EXTINF:-1 tvg-chno=¨21¨,ANTENA 21
-https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA0NTMzNjI5LCJzZXNzaW9uIjoiMTkwLjE2Ny4xNDMuODAiLCJ3aGl0ZWxpc3QiOlsiMTkwLjE2Ny4xNDMuODAiXX0sInNpZ25hdHVyZSI6ImY0ZDZmNDA3Y2VmNmNjYzEwZDQ3YmQwZjE4YzcwNjg4NTkwMGRhMDEifQ%3D%3D
+https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MTk3NjgyLCJzZXNzaW9uIjoiMTQ4LjEwMS4xNjkuMTUyIiwid2hpdGVsaXN0IjpbIjE0OC4yNTUuMjI4LjE1OCIsIjE5MC4xNjYuMjIuMjIiXX0sInNpZ25hdHVyZSI6IjVlMmEzOTY1N2M2ZDI0ZDcxNTEyNjBmZDVmNTgxYzY5ZjM2ZjE1NWMifQ%3D%3D
 
 #EXTINF:-1 tvg-chno=¨51¨,TNI 51
 https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL

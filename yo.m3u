@@ -1,6 +1,6 @@
 # lista
 #EXTINF:-1 tvg-chno=¨2¨,Teleantillas
-https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8?PlaylistM3UCL
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w829011045.m3u8
 
 #EXTINF:-1 tvg-chno=¨4¨, Canal 4 RD
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
@@ -27,7 +27,7 @@ http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?Playlis
 https://playback.akamaized.net/streams/27456795_8268514_lsihn7mveyyscy7m3tm_1/media/27456795_8268514_lsihn7mveyyscy7m3tm_1@628000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283658~acl=/streams/27456795_8268514_lsihn7mveyyscy7m3tm_1/media*~hmac=26cda4f38a0f55ffadba9ef2f1a6398b4f5f36d62610aa5806e8e91df5f31667
 
 #EXTINF:-1 tvg-chno=¨21¨,ANTENA 21
-https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MTk3NjgyLCJzZXNzaW9uIjoiMTQ4LjEwMS4xNjkuMTUyIiwid2hpdGVsaXN0IjpbIjE0OC4yNTUuMjI4LjE1OCIsIjE5MC4xNjYuMjIuMjIiXX0sInNpZ25hdHVyZSI6IjVlMmEzOTY1N2M2ZDI0ZDcxNTEyNjBmZDVmNTgxYzY5ZjM2ZjE1NWMifQ%3D%3D
+https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MjA4ODc0LCJzZXNzaW9uIjoiMTQ4LjI1NS4yMzYuMjQ2Iiwid2hpdGVsaXN0IjpbIjE0OC4yNTUuMjI4LjE1OCJdfSwic2lnbmF0dXJlIjoiYTI1MTlmMTFmNzNjM2ZhYTc3YzliNmIxZGIwMWJkOTg1NDYxYjg2YyJ9
 
 #EXTINF:-1 tvg-chno=¨51¨,TNI 51
 https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL

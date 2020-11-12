@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-chno=¨2¨,Teleantillas
 https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w829011045.m3u8
 
+#EXTINF:-1 tvg-id="108974" tvg-name="Teleantillas" tvg-logo="https://lh3.googleusercontent.com/--ZdvDPEZM6U/Xzgb3ZRAe4I/AAAAAAAA4VA/Bv5ESAdmZio3thWjXaoUaLXcPiXTFUuJgCK8BGAsYHg/s0/2020-08-15.jpg", Teleantillas
+https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-chno=¨4¨, Canal 4 RD
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
 
@@ -11,11 +14,26 @@ https://playback.akamaized.net/streams/27456795_8825585_lsi4dwlwfunh70sfjat_1/me
 #EXTINF:-1 tvg-chno=¨7¨,AN7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MjAwMzE5LCJzZXNzaW9uIjoiMTQ4LjEwMS4xNjkuMTUyIiwid2hpdGVsaXN0IjpbIjE0OC4xMDEuMTY5LjE1MiJdfSwic2lnbmF0dXJlIjoiYzRjYjBjYmMwYzYxZDUxN2Q0OTg0Mzg5MzgxMjFjYzI1Mzg0OTUxZSJ9
 
+#EXTINF:-1 tvg-chno=¨8¨,Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-chno=¨9¨,Color Visión RD
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYy0tCF2LXIgpbFgKtbj6Chw)/dm/3/x7gy059/d/live-1.m3u8
 
+#EXTINF:-1 tvg-chno=¨10¨,Telenord 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno=¨10¨,MICROVISION 10 HD
+https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1529397220.m3u8
+
 #EXTINF:-1 tvg-chno=¨11¨,Telesistema
 http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8&PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno=¨12¨,Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno=¨12¨,Telecanal 12
+https://cdn4.hostlagarto.com:8081/telecanal12/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨13¨,TELECENTRO
 https://playback.akamaized.net/streams/28126860_8555433_lsiaq0x64xbh2vvq97z_1/media/28126860_8555433_lsiaq0x64xbh2vvq97z_1@1396000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283514~acl=/streams/28126860_8555433_lsiaq0x64xbh2vvq97z_1/media*~hmac=16ce5b809c523972c65eed19a66de5b44d5bc8e1833a5e035b10f9a5d7d14c5c
@@ -26,14 +44,32 @@ http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?Playlis
 #EXTINF:-1 tvg-chno=¨15¨,Digital 15
 https://playback.akamaized.net/streams/27456795_8268514_lsihn7mveyyscy7m3tm_1/media/27456795_8268514_lsihn7mveyyscy7m3tm_1@628000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283658~acl=/streams/27456795_8268514_lsihn7mveyyscy7m3tm_1/media*~hmac=26cda4f38a0f55ffadba9ef2f1a6398b4f5f36d62610aa5806e8e91df5f31667
 
+#EXTINF:-1 tvg-chno=¨18¨,Vegavision Canal 18
+https://cdn4.hostlagarto.com:8081/canal18hd/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-chno=¨21¨,ANTENA 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MjA4ODc0LCJzZXNzaW9uIjoiMTQ4LjI1NS4yMzYuMjQ2Iiwid2hpdGVsaXN0IjpbIjE0OC4yNTUuMjI4LjE1OCJdfSwic2lnbmF0dXJlIjoiYTI1MTlmMTFmNzNjM2ZhYTc3YzliNmIxZGIwMWJkOTg1NDYxYjg2YyJ9
+
+#EXTINF:-1 tvg-chno=¨25¨, Canal 25 Santiago
+https://ss3.domint.net:3122/c25_str/canal25/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="108975" tvg-name="RNN" tvg-logo="https://lh3.googleusercontent.com/-jth7QtCbGzk/XzgbeB2zxhI/AAAAAAAA4Uw/uSoJpwnWpyw_rQfYXhM89c_9lPfHKydvACK8BGAsYHg/s0/2020-08-15.png", RNN
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno=¨35¨,Sport Vision
+https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/manifest.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno=¨45¨,AME
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="108943" tvg-name="Teleradio America" tvg-logo="https://lh3.googleusercontent.com/-MgU5_trIDkk/XzgdWzhOtEI/AAAAAAAA4Vs/kAAYe0xTrfUHxuBZpyx_2yVD6xYC3ClAACK8BGAsYHg/s0/2020-08-15.jpg", Teleradio America
+https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨51¨,TNI 51
 https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno=¨45¨,AME
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno=¨55¨,Super TV 55
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨34¨,TV Cotuí
 http://ramgolive.ddns.net:1935/tvcotui/tvcotui/chunklist_w945007876.m3u8
@@ -59,9 +95,6 @@ https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno=¨14¨,Teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno=¨16¨,Telever Canal 12
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-chno=¨17¨,TV Montaña
 http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8?PlaylistM3UCL
 
@@ -73,12 +106,6 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?Playli
 
 #EXTINF:-1 tvg-chno=¨199¨,Vallevisión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w845137564.m3u8
-
-#EXTINF:-1 tvg-chno=¨20¨,Vegavision Canal 18
-https://cdn4.hostlagarto.com:8081/canal18hd/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-chno=¨100¨,MICROVISION 10 HD
-https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1529397220.m3u8
 
 #EXTINF:-1 tvg-chno=¨25¨,Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?PlaylistM3UCL
@@ -104,20 +131,11 @@ http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno=¨28¨,Peravia Vision
 http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno=¨29¨,Super TV 55
-https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-chno=¨30¨,Telenord 10
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-chno=¨31¨,TV Exitos
 http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨32¨,Yunavision
 https://ss4.domint.net:3004/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-chno=¨34¨,Sport Vision
-https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/manifest.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨35¨,Fuego TV
 http://184.173.181.2:1935/8020/8020/playlist.m3u8?PlaylistM3UCL
@@ -134,23 +152,17 @@ https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno=¨39¨,Telefuturo
 http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno=¨25¨, Canal 25 Santiago
-https://ss3.domint.net:3122/c25_str/canal25/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-chno=¨40¨,Bonao TV
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨41¨, Boreal Televisión
 https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno=¨42¨,Telenord 8
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-chno=¨43¨,Teleradio Norte
 https://cdn4.hostlagarto.com:8081/teleradionortetv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno=¨44¨,Zol 106.5 FM
-https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108959" tvg-name="GH Television" tvg-logo="https://lh3.googleusercontent.com/-nb3HIODiLDM/XzgWLtnp3XI/AAAAAAAA4Tk/8UEOEhd2HZw5wBMZT_eNNABGpW9c2w65gCK8BGAsYHg/s0/2020-08-15.jpg", GH Television
+https://ss6.domint.net:3046/gh_str/tv10/chunklist_w1697117333.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno=¨46¨,Telecanal 12
-https://cdn4.hostlagarto.com:8081/telecanal12/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108973" tvg-name="Telecibao" tvg-logo="https://lh3.googleusercontent.com/-SNcmUEQMH_8/XzgcTFn6F_I/AAAAAAAA4VQ/uLAvXE8GMFInptHJzAYr3beBjiqc5ABAwCK8BGAsYHg/s0/2020-08-15.jpg", Telecibao
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL

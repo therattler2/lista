@@ -11,6 +11,9 @@ http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?Playlis
 #EXTINF:-1 tvg-chno=¨5¨,Telemicro canal 5
 https://playback.akamaized.net/streams/27456795_8825585_lsi4dwlwfunh70sfjat_1/media/27456795_8825585_lsi4dwlwfunh70sfjat_1@628000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283234~acl=/streams/27456795_8825585_lsi4dwlwfunh70sfjat_1/media*~hmac=fbf8ffcbd60641b28f23261bfb3bd646587f1f0f454a41057606d6f99b04c74f
 
+#EXTINF:-1 tvg-chno=¨05¨,telemicro 5
+https://playback.akamaized.net/streams/27456795_8825585_lsihy1rcjh9j09u4yxi_1/media/27456795_8825585_lsihy1rcjh9j09u4yxi_1@628000p.m3u8?dw=14400&ts=1605484800&hdnts=exp=1605660683~acl=/streams/27456795_8825585_lsihy1rcjh9j09u4yxi_1/media*~hmac=2f175b7027ec87fd9c7fee465d26daaf87cf27e08ae640ee9fed6eafa4187f65
+
 #EXTINF:-1 tvg-chno=¨7¨,AN7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MjAwMzE5LCJzZXNzaW9uIjoiMTQ4LjEwMS4xNjkuMTUyIiwid2hpdGVsaXN0IjpbIjE0OC4xMDEuMTY5LjE1MiJdfSwic2lnbmF0dXJlIjoiYzRjYjBjYmMwYzYxZDUxN2Q0OTg0Mzg5MzgxMjFjYzI1Mzg0OTUxZSJ9
 
@@ -19,6 +22,9 @@ http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1 tvg-chno=¨9¨,Color Visión RD
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYy0tCF2LXIgpbFgKtbj6Chw)/dm/3/x7gy059/d/live-1.m3u8
+
+#EXTINF:-1 tvg-chno=¨09¨,colorvision
+https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYybF1sKuBtHVH2uJysI6ies)/dm/3/x7gy059/d/live-0.m3u8
 
 #EXTINF:-1 tvg-chno=¨10¨,Telenord 10
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
@@ -29,6 +35,9 @@ https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1529397220.m3u
 #EXTINF:-1 tvg-chno=¨11¨,Telesistema
 http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8&PlaylistM3UCL
 
+#EXTINF:-1 tvg-chno=¨11¨,telesistema 11
+https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w866007251.m3u8
+
 #EXTINF:-1 tvg-chno=¨12¨,Telever Canal 12
 http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8?PlaylistM3UCL
 
@@ -38,11 +47,20 @@ https://cdn4.hostlagarto.com:8081/telecanal12/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno=¨13¨,TELECENTRO
 https://playback.akamaized.net/streams/28126860_8555433_lsiaq0x64xbh2vvq97z_1/media/28126860_8555433_lsiaq0x64xbh2vvq97z_1@1396000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283514~acl=/streams/28126860_8555433_lsiaq0x64xbh2vvq97z_1/media*~hmac=16ce5b809c523972c65eed19a66de5b44d5bc8e1833a5e035b10f9a5d7d14c5c
 
+#EXTINF:-1 tvg-chno=¨13¨,telecentro
+https://playback.akamaized.net/streams/28126860_8555433_lsioiln4s8bb7k4fx8j_1/media/28126860_8555433_lsioiln4s8bb7k4fx8j_1@1396000p.m3u8?dw=14400&ts=1605484800&hdnts=exp=1605658375~acl=/streams/28126860_8555433_lsioiln4s8bb7k4fx8j_1/media*~hmac=85bde61332747fbfbf53068e42c4bd0afe5b495588b4b3bd2d5523fbfd23ca5f
+
 #EXTINF:-1 tvg-chno=¨13¨,Telecentro
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨15¨,Digital 15
 https://playback.akamaized.net/streams/27456795_8268514_lsihn7mveyyscy7m3tm_1/media/27456795_8268514_lsihn7mveyyscy7m3tm_1@628000p.m3u8?dw=14400&ts=1605110400&hdnts=exp=1605283658~acl=/streams/27456795_8268514_lsihn7mveyyscy7m3tm_1/media*~hmac=26cda4f38a0f55ffadba9ef2f1a6398b4f5f36d62610aa5806e8e91df5f31667
+
+#EXTINF:-1 tvg-chno=¨15¨,digital 15
+https://playback.akamaized.net/streams/27456795_8268514_lsi9n5svky2lfnr13h6_1/media/27456795_8268514_lsi9n5svky2lfnr13h6_1@628000p.m3u8?dw=14400&ts=1605484800&hdnts=exp=1605660843~acl=/streams/27456795_8268514_lsi9n5svky2lfnr13h6_1/media*~hmac=f3de7f0a9f18be7ac48eb5ad6ac619fef3efc26c31c70338302da8a7c7e2dacb
+
+#EXTINF:-1 tvg-chno=¨16¨,teleunion
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1068261991.m3u8
 
 #EXTINF:-1 tvg-chno=¨18¨,Vegavision Canal 18
 https://cdn4.hostlagarto.com:8081/canal18hd/index.m3u8?PlaylistM3UCL
@@ -50,14 +68,29 @@ https://cdn4.hostlagarto.com:8081/canal18hd/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno=¨21¨,ANTENA 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1MjA4ODc0LCJzZXNzaW9uIjoiMTQ4LjI1NS4yMzYuMjQ2Iiwid2hpdGVsaXN0IjpbIjE0OC4yNTUuMjI4LjE1OCJdfSwic2lnbmF0dXJlIjoiYTI1MTlmMTFmNzNjM2ZhYTc3YzliNmIxZGIwMWJkOTg1NDYxYjg2YyJ9
 
+#EXTINF:-1 tvg-chno=¨23¨,telefuturo
+https://ss8.domint.net:3118/tf_str/futu/chunklist_w1830784275.m3u8
+
+#EXTINF:-1 tvg-chno=¨25¨,canal 25
+https://ss5.domint.net:3050/c25_str/canal25/chunklist_w688267878.m3u8
+
 #EXTINF:-1 tvg-chno=¨25¨, Canal 25 Santiago
 https://ss3.domint.net:3122/c25_str/canal25/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno=¨27¨,canal 27
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w560875565.m3u8
+
+#EXTINF:-1 tvg-chno=¨29¨,teleuniverso
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
 
 #EXTINF:-1 tvg-id="108975" tvg-name="RNN" tvg-logo="https://lh3.googleusercontent.com/-jth7QtCbGzk/XzgbeB2zxhI/AAAAAAAA4Uw/uSoJpwnWpyw_rQfYXhM89c_9lPfHKydvACK8BGAsYHg/s0/2020-08-15.png", RNN
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨35¨,Sport Vision
 https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/manifest.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno=¨43¨,megavision
+http://server3.prostudionetwork.com:1943/megavision/MV/chunklist_w1678684888.m3u8
 
 #EXTINF:-1 tvg-chno=¨45¨,AME
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
@@ -71,6 +104,9 @@ https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno=¨55¨,Super TV 55
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-chno=¨59¨,Mango tv Canal 59
+https://mangotv01.streamprolive.com/hls/live.m3u8
+
 #EXTINF:-1 tvg-chno=¨34¨,TV Cotuí
 http://ramgolive.ddns.net:1935/tvcotui/tvcotui/chunklist_w945007876.m3u8
 
@@ -82,6 +118,9 @@ http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨88¨,RomanaTV
 http://live.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno=¨65¨,canaldelsol
+https://canaldelsol01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-chno=¨47¨,acentotv
 https://acentotv01.streamprolive.com/hls/live.m3u8
@@ -166,3 +205,6 @@ https://ss6.domint.net:3046/gh_str/tv10/chunklist_w1697117333.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="108973" tvg-name="Telecibao" tvg-logo="https://lh3.googleusercontent.com/-SNcmUEQMH_8/XzgcTFn6F_I/AAAAAAAA4VQ/uLAvXE8GMFInptHJzAYr3beBjiqc5ABAwCK8BGAsYHg/s0/2020-08-15.jpg", Telecibao
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno=¨00¨,hilandofino
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1377348402_b478000.m3u8

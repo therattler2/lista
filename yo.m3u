@@ -1,21 +1,21 @@
 # lista
 #EXTINF:-1 tvg-chno=¨5¨,telemicro 5
-https://playback.akamaized.net/streams/27456795_8825585_lsi79nzo9ajwj7krzvx_1/media/27456795_8825585_lsi79nzo9ajwj7krzvx_1@628000p.m3u8?dw=14400&ts=1606604400&hdnts=exp=1606778607~acl=/streams/27456795_8825585_lsi79nzo9ajwj7krzvx_1/media*~hmac=3587fe4c5a838dedc4385fcd9a18b893874d870f67b950dbbcc67ecbf8316293
+https://playback.akamaized.net/streams/27456795_8825585_lsiolb3wcgjmvd5ru4b_1/media/27456795_8825585_lsiolb3wcgjmvd5ru4b_1@628000p.m3u8?dw=14400&ts=1611788400&hdnts=exp=1611961729~acl=/streams/27456795_8825585_lsiolb3wcgjmvd5ru4b_1/media*~hmac=3b9a3d66f12884693eed1a77ca4a5a285c95bc12b112892b419777ac67c1fb58
 
 #EXTINF:-1 tvg-chno=¨13¨,Telecentro 13
-https://playback.akamaized.net/streams/28126860_8555433_lsi860j8pgnumh6odrz_1/media/28126860_8555433_lsi860j8pgnumh6odrz_1@1396000p.m3u8?dw=14400&ts=1606604400&hdnts=exp=1606778732~acl=/streams/28126860_8555433_lsi860j8pgnumh6odrz_1/media*~hmac=13e84ec8e273e6ed90c22aa5076c9f5be7f30a148f9869679673bbd2576b09ac
+https://playback.akamaized.net/streams/28126860_8555433_lsinjess9zz75r4a8o9_1/media/28126860_8555433_lsinjess9zz75r4a8o9_1@728000p.m3u8?dw=14400&ts=1611788400&hdnts=exp=1611961879~acl=/streams/28126860_8555433_lsinjess9zz75r4a8o9_1/media*~hmac=37731a59b59fa1f7e3fb05d326ebcb4280ce1be1280e58006b22bdc99fede94d
 
 #EXTINF:-1 tvg-chno=¨15¨,digital 15
-https://playback.akamaized.net/streams/27456795_8268514_lsik993lzndvsprx5yd_1/media/27456795_8268514_lsik993lzndvsprx5yd_1@628000p.m3u8?dw=14400&ts=1606604400&hdnts=exp=1606778850~acl=/streams/27456795_8268514_lsik993lzndvsprx5yd_1/media*~hmac=cfcdd6a1e69f71d02487dea32e177579af808a0d2a9a8bb70f6839b4153c9768
+https://player-api.new.livestream.com/accounts/27456795/events/8268514/broadcasts/216724698.secure.m3u8?dw=14400&hdnea=st%3D1611788821~exp%3D1611790621~acl%3D%2Fi%2F27456795_8268514_lsi5m42x3yy6fxeyszj_1%40688189%2F%2A~hmac%3D5f43159104060ab70579ca4ad983e7ea25e79b5c0bf3ba76f54eba0db923eeed&token=6011f341_e3600a49d7ea59c1d03770a5a6e2601077dd63cb
 
 #EXTINF:-1 tvg-chno=¨9¨,colorvision 9
-https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY5An5f9A3S34H5azrkodQ94)/dm/3/x7gy059/d/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY4MXQSmVbU4urzoGTKv9uYo)/dm/3/x7gy059/d/live-1.m3u8
 
 #EXTINF:-1 tvg-chno=¨7¨,AN7
-https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA2NjkxOTIyLCJzZXNzaW9uIjoiMTQ4LjI1NS4yNTEuMzIiLCJ3aGl0ZWxpc3QiOlsiMTQ4LjI1NS4yNTEuMzIiXX0sInNpZ25hdHVyZSI6IjMzZTE3MGFjODJhZTVlZmFmODQyOGZiNDMyMmY3NjUwZDdiYzZmZTEifQ%3D%3D
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExODc1NzgyLCJzZXNzaW9uIjoiMTQ4LjEwMS4yMjAuMTkxIiwid2hpdGVsaXN0IjpbIjE0OC4xMDEuMjIwLjE5MSJdfSwic2lnbmF0dXJlIjoiYmU4MGQ1YjlmMDc0ZTM5MWRiMmRmODZmZGI3NjYyMGZiMGQ0ODQwNSJ9
 
 #EXTINF:-1 tvg-chno=¨21¨,ANTENA 21
-https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA2NjkyNzYwLCJzZXNzaW9uIjoiMTQ4LjI1NS4yNTEuMzIiLCJ3aGl0ZWxpc3QiOlsiMTkwLjE2Ni44Mi44OSJdfSwic2lnbmF0dXJlIjoiYzgyNzRmMDdiY2NjNmI1ZDZkMTRjYjZkZTU5MTZmMmVhMjU5NTNhOCJ9
+https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExODc1OTU0LCJzZXNzaW9uIjoiMTQ4LjEwMS4yMjAuMTkxIiwid2hpdGVsaXN0IjpbIjE0OC4xMDEuMjIwLjE5MSJdfSwic2lnbmF0dXJlIjoiNjMxM2RlMjEzMDg5YTUzNDk0ZTJkY2FkMTZiMzc3NTgzOTEwMTk3YyJ9
 
 #EXTINF:-1 tvg-chno=¨65¨,canal del sol
 https://canaldelsol01.streamprolive.com/hls/live.m3u8
@@ -172,5 +172,4 @@ https://ss6.domint.net:3046/gh_str/tv10/chunklist_w1697117333.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨00¨,hilandofino
 https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1377348402_b478000.m3u8
-
 

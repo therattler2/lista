@@ -1,4 +1,19 @@
 # lista
+#EXTINF:-1 tvg-chno=¨9¨,colorvision 9
+https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY5rEk-nNX0sgzQiDR1bhsww)/dm/3/x7gy059/d/live-0.m3u8
+
+#EXTINF:-1 tvg-chno=¨11¨,telesistema 11
+https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w866007251.m3u8
+
+#EXTINF:-1 tvg-chno=¨2¨,Teleantillas 2
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w829011045.m3u8
+
+#EXTINF:-1 tvg-chno=¨45¨,AME 45
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno=¨51¨,TNI 51
+https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-chno=¨5¨,telemicro 5
 https://playback.akamaized.net/streams/27456795_8825585_lsiolb3wcgjmvd5ru4b_1/media/27456795_8825585_lsiolb3wcgjmvd5ru4b_1@628000p.m3u8?dw=14400&ts=1611788400&hdnts=exp=1611961729~acl=/streams/27456795_8825585_lsiolb3wcgjmvd5ru4b_1/media*~hmac=3b9a3d66f12884693eed1a77ca4a5a285c95bc12b112892b419777ac67c1fb58
 
@@ -8,23 +23,11 @@ https://playback.akamaized.net/streams/28126860_8555433_lsinjess9zz75r4a8o9_1/me
 #EXTINF:-1 tvg-chno=¨15¨,digital 15
 https://player-api.new.livestream.com/accounts/27456795/events/8268514/broadcasts/216724698.secure.m3u8?dw=14400&hdnea=st%3D1611788821~exp%3D1611790621~acl%3D%2Fi%2F27456795_8268514_lsi5m42x3yy6fxeyszj_1%40688189%2F%2A~hmac%3D5f43159104060ab70579ca4ad983e7ea25e79b5c0bf3ba76f54eba0db923eeed&token=6011f341_e3600a49d7ea59c1d03770a5a6e2601077dd63cb
 
-#EXTINF:-1 tvg-chno=¨9¨,colorvision 9
-https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY4MXQSmVbU4urzoGTKv9uYo)/dm/3/x7gy059/d/live-1.m3u8
-
 #EXTINF:-1 tvg-chno=¨7¨,AN7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExODc1NzgyLCJzZXNzaW9uIjoiMTQ4LjEwMS4yMjAuMTkxIiwid2hpdGVsaXN0IjpbIjE0OC4xMDEuMjIwLjE5MSJdfSwic2lnbmF0dXJlIjoiYmU4MGQ1YjlmMDc0ZTM5MWRiMmRmODZmZGI3NjYyMGZiMGQ0ODQwNSJ9
 
 #EXTINF:-1 tvg-chno=¨21¨,ANTENA 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExODc1OTU0LCJzZXNzaW9uIjoiMTQ4LjEwMS4yMjAuMTkxIiwid2hpdGVsaXN0IjpbIjE0OC4xMDEuMjIwLjE5MSJdfSwic2lnbmF0dXJlIjoiNjMxM2RlMjEzMDg5YTUzNDk0ZTJkY2FkMTZiMzc3NTgzOTEwMTk3YyJ9
-
-#EXTINF:-1 tvg-chno=¨65¨,canal del sol
-https://canaldelsol01.streamprolive.com/hls/live.m3u8
-
-#EXTINF:-1 tvg-chno=¨59¨,Mango tv Canal 59
-https://mangotv01.streamprolive.com/hls/live.m3u8
-
-#EXTINF:-1 tvg-chno=¨00¨,televisiondeleste
-https://cm.hostlagarto.com:4445/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=336027375
 
 #EXTINF:-1 tvg-chno=¨25¨,canal 25
 https://ss5.domint.net:3050/c25_str/canal25/chunklist_w688267878.m3u8
@@ -32,23 +35,8 @@ https://ss5.domint.net:3050/c25_str/canal25/chunklist_w688267878.m3u8
 #EXTINF:-1 tvg-chno=¨13¨,Telecentro 13
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno=¨2¨,Teleantillas 2
-https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w829011045.m3u8
-
-#EXTINF:-1 tvg-id="108974" tvg-name="Teleantillas" tvg-logo="https://lh3.googleusercontent.com/--ZdvDPEZM6U/Xzgb3ZRAe4I/AAAAAAAA4VA/Bv5ESAdmZio3thWjXaoUaLXcPiXTFUuJgCK8BGAsYHg/s0/2020-08-15.jpg", Teleantillas
-https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-chno=¨4¨, Canal 4
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-chno=¨11¨,telesistema 11
-https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w866007251.m3u8
-
-#EXTINF:-1 tvg-chno=¨45¨,AME 45
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-chno=¨51¨,TNI 51
-https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨3¨,Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
@@ -172,4 +160,13 @@ https://ss6.domint.net:3046/gh_str/tv10/chunklist_w1697117333.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno=¨00¨,hilandofino
 https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1377348402_b478000.m3u8
+
+#EXTINF:-1 tvg-chno=¨65¨,canal del sol
+https://canaldelsol01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno=¨59¨,Mango tv Canal 59
+https://mangotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno=¨00¨,televisiondeleste
+https://cm.hostlagarto.com:4445/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=336027375
 
